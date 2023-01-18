@@ -1,3 +1,1 @@
-<h1>
-  A nested route
-</h1>
+<h1>A nested route</h1>
